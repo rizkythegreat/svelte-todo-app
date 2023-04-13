@@ -22,6 +22,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@tailwindcss/forms": "^0.5.3",
 		"uuid": "^9.0.0"
 	}
 }
